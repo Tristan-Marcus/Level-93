@@ -1,6 +1,6 @@
 # Level-93
 
-RPG Prototype Project used for learning and development purposes. At the moment the player is able to open the game and move with WASD and pan the camera with Mouse buttons 0 and 1. Holding left shift will allow the player to sprint and pressing spacebar will make the character jump. A leveling system is implemented alongside a save/load feature but they are currently not accessible by the player.
+RPG Prototype Project used for learning and development purposes. At the moment the player is able to open the game and move with WASD and pan the camera with Mouse buttons 0 and 1. Holding left shift will allow the player to sprint and pressing spacebar will make the character jump. A leveling system is implemented alongside a save/load feature but they are currently not working due to a data conversion error; for more info on this bug click [here](https://github.com/Tristan-Marcus/Level-93/issues/1).
 
 ## Getting Started
 
